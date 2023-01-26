@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Saini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76111cd7ca1a13b1f3815ff670a61e4d015fc29e08f4&rid=giphy.gif&ct=g" />
+<img style="margin:auto" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76111cd7ca1a13b1f3815ff670a61e4d015fc29e08f4&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawansaini0&label=Profile%20views&color=0e75b6&style=flat" alt="pawansaini0" /> </p>
 
