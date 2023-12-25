@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <li>👨‍💻 All of my projects are available at https://pawansaini0.github.io/</li>
 </ul>
 
-👯 Reach me out at [sainipawann@gamil.com](sainipawann@gmail.com)
+👯 Reach me out at [sainipawann@gmail.com](sainipawann@gmail.com)
 
 <br />
 
